@@ -1,2 +1,2 @@
-uwsgi==2.0.18
 webob==1.8.5
+gunicorn==19.9.0
