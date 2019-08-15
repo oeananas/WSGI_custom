@@ -33,4 +33,4 @@ class Api:
     @staticmethod
     def default_response(response):
         response.status_code = 404
-        response.text = "Not found."
+        response.text = 'Page not found :('
